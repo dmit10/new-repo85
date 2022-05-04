@@ -1,0 +1,4 @@
+[map "c4bb41e4-0bde-3557-8fe6-0c2ed0cf211b"]
+	object = 51ea9eedf1d85b718d53abae2f088cae0f4a4ec6
+	path = GxIntegrationTest.test-parent
+	type = expand module
